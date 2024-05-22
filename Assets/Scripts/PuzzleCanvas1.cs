@@ -45,6 +45,7 @@ public class PuzzleCanvas1 : MonoBehaviour
                 {
                     pressE = !pressE;
                     PuzzleCanvas.SetActive(true);
+                    //making a change in github
                 }
                 else
                 {
